@@ -17,7 +17,7 @@ An interactive Power BI dashboard to visualize and analyze retail store performa
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard/dashboard-preview.png)
+![Dashboard Preview](Screenshots/dashboard-preview.png)
 
 ## 📌 How to Use
 
